@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`c11ef6e`](https://github.com/stdlib-js/stdlib/commit/c11ef6e1bb5a0088507a6e13a2b0a659fe6fc293) - add C implementation for `stats/base/dists/frechet/cdf` [(#4736)](https://github.com/stdlib-js/stdlib/pull/4736)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3604](https://github.com/stdlib-js/stdlib/issues/3604)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`c11ef6e`](https://github.com/stdlib-js/stdlib/commit/c11ef6e1bb5a0088507a6e13a2b0a659fe6fc293) - **feat:** add C implementation for `stats/base/dists/frechet/cdf` [(#4736)](https://github.com/stdlib-js/stdlib/pull/4736) _(by Nishchay Rajput, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
 
 </details>
@@ -24,9 +47,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Nishchay Rajput
+-   Philipp Burckhardt
 
 </section>
 
