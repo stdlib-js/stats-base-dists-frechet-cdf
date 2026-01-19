@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-13)
+## Unreleased (2026-01-19)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`f0f8463`](https://github.com/stdlib-js/stdlib/commit/f0f8463cb72dcc3d7905d15c98d9598e7bb8315b) - **docs:** remove comment [(#7831)](https://github.com/stdlib-js/stdlib/pull/7831) _(by SAUJANYA MAGARDE)_
 -   [`c11ef6e`](https://github.com/stdlib-js/stdlib/commit/c11ef6e1bb5a0088507a6e13a2b0a659fe6fc293) - **feat:** add C implementation for `stats/base/dists/frechet/cdf` [(#4736)](https://github.com/stdlib-js/stdlib/pull/4736) _(by Nishchay Rajput, Philipp Burckhardt)_
 -   [`fa15161`](https://github.com/stdlib-js/stdlib/commit/fa15161761664bbdd2123292d3f1d7cf2d0f0a6d) - **bench:** refactor random number generation in `stats/base/dists/frechet` [(#4922)](https://github.com/stdlib-js/stdlib/pull/4922) _(by Karan Anand, stdlib-bot)_
