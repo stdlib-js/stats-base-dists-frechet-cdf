@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-frechet-cdf",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Fréchet distribution cumulative distribution function (CDF).",
   "license": "Apache-2.0",
   "author": {
@@ -40,22 +40,22 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-assert-is-nan": "^0.2.2",
-    "@stdlib/math-base-napi-quaternary": "^0.2.3",
+    "@stdlib/math-base-assert-is-nan": "^0.2.3",
+    "@stdlib/math-base-napi-quaternary": "^0.2.4",
     "@stdlib/math-base-special-exp": "^0.2.4",
     "@stdlib/math-base-special-pow": "^0.3.0",
-    "@stdlib/utils-constant-function": "^0.2.2",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.3"
+    "@stdlib/utils-constant-function": "^0.2.3",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
+    "@stdlib/utils-library-manifest": "^0.2.4"
   },
   "devDependencies": {
-    "@stdlib/array-float64": "^0.2.2",
-    "@stdlib/constants-float64-eps": "^0.2.2",
-    "@stdlib/constants-float64-ninf": "^0.2.2",
-    "@stdlib/constants-float64-pinf": "^0.2.2",
-    "@stdlib/math-base-special-abs": "^0.2.2",
-    "@stdlib/random-base-uniform": "^0.2.1",
-    "@stdlib/utils-try-require": "^0.2.2",
+    "@stdlib/array-float64": "^0.2.3",
+    "@stdlib/constants-float64-eps": "^0.2.3",
+    "@stdlib/constants-float64-ninf": "^0.2.3",
+    "@stdlib/constants-float64-pinf": "^0.2.3",
+    "@stdlib/math-base-special-abs": "^0.2.3",
+    "@stdlib/random-base-uniform": "^0.2.2",
+    "@stdlib/utils-try-require": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
